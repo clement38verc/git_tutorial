@@ -50,10 +50,10 @@ We'll see that in a bit
 Great ! Now the repository exists in 2 places ! It exists online, on the github servers (called 'remote'), and locally on your computer.
    
 ## Step 4: Start a nice coding project
-For this tutorial, we will do a great coding project in python 3 (if you prefer a C coding project, click [here](TODO)
-+ Create a new file in your repository folder (it should be `~/git/<your-repo-name/`) called `hello.py` with your favorite text editor.
+For this tutorial, we will do a great coding project in C.
++ Create a new file in your repository folder (it should be `~/git/<your-repo-name/`) called `hello.c` with your favorite text editor.
 + Paste the code contained in [this file](https://github.com/g1t-d3m0/git_tutorial/blob/master/hello.py) (spoiler: it's a hello world)
-+ Verify that you can run it. In a terminal, try and run `./hello.py`. It should print 'Hello, world!'
++ Verify that you can run it. In a terminal, compile it (`gcc hello.c -o hello`), try and run `./hello`. It should print 'Hello, world!'
 
 So the first version of your project is ready, and it looks functional.  
 We will now _commit_ this code, meaning that we save the entire state of the project in git.  

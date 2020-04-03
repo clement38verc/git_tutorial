@@ -121,3 +121,11 @@ Among the important features:
 + It is a solid backup of the code: your projects, which can represent many hours of work, will never get lost
 + It keeps tracks of the states of the project: no more 'it used to work but now it's broken...'
 + These are 3 out of hundreds of nice features.
+
+
+Useful links:
++ [Git student pack](https://education.github.com/pack/redeem/github-student-pro): free premium account for students (using university email). [The whole student pack](https://education.github.com/pack/offers)
++ Other git repository servers & managers: github is the biggest, but not the only one. [GitLab](https://gitlab.com/) and [BitBucket](https://bitbucket.org/product) are also widely used equivalent tools.
+
+
+What comes next: this is git 101, a slide session will come (git 102) afterwards.
